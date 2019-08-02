@@ -191,5 +191,10 @@ end
 
 
 def display_board(board)
-  print "   |   |   /n-----------/n   |   |   /n-----------/n   |   |   /n"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  
 end
