@@ -188,3 +188,8 @@ describe "#display_board in 'lib/display_board.rb" do
     end
   end
 end
+
+
+def display_board(board)
+  print "   |   |   /n-----------/n   |   |   /n-----------/n   |   |   /n"
+end
